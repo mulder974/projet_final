@@ -34,12 +34,6 @@ for sheet in conso_sheets_list:
 
 
 # %%
-df.index
-
-df.isnull().sum()
-# %%
-df['Belarus']
-# %%
 dates = data_list[0].index
 dates_df = pd.DataFrame(dates)
 dates_df
@@ -53,4 +47,3 @@ data_list[0]
 types = ['Primary', 'Oil', 'Gas', 'Coal', 'Nuclear', 'Hydro', 'Renewables', 'Solar', 'Wind', 'Geo Biomass', 'Biofuel']
 types_df = pd.DataFrame(types)
 types_df
-# %%
