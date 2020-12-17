@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/home/juliecharrier/anaconda3/envs/projet_final_simplon/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
