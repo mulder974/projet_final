@@ -1,0 +1,113 @@
+,name,region_id
+0,Canada,1
+1,Mexico,1
+2,US,1
+3,Argentina,2
+4,Brazil,2
+5,Colombia,2
+6,Ecuador,2
+7,Peru,2
+8,Trinidad & Tobago,2
+9,Venezuela,2
+10,Denmark,3
+11,Italy,3
+12,Norway,3
+13,Romania,3
+14,United Kingdom,3
+15,Other Europe,3
+16,Azerbaijan,4
+17,Kazakhstan,4
+18,Russian Federation,4
+19,Turkmenistan,4
+20,USSR,4
+21,Uzbekistan,4
+22,Other CIS,4
+23,Iran,5
+24,Iraq,5
+25,Kuwait,5
+26,Oman,5
+27,Qatar,5
+28,Saudi Arabia,5
+29,Syria,5
+30,United Arab Emirates,5
+31,Yemen,5
+32,Other Middle East,5
+33,Algeria,6
+34,Angola,6
+35,Chad,6
+36,Republic of Congo ,6
+37,Egypt,6
+38,Equatorial Guinea,6
+39,Gabon,6
+40,Libya,6
+41,Nigeria,6
+42,South Sudan,6
+43,Sudan,6
+44,Tunisia,6
+45,Other Africa,6
+46,Australia,7
+47,Brunei,7
+48,China,7
+49,India,7
+50,Indonesia,7
+51,Malaysia,7
+52,Thailand,7
+53,Vietnam,7
+54,Other Asia Pacific,7
+55,Bolivia,2
+56,Germany,3
+57,Netherlands,3
+58,Poland,3
+59,Ukraine,3
+60,Bahrain,5
+61,Bangladesh,7
+62,Myanmar,7
+63,Pakistan,7
+64,Bulgaria,3
+65,Czech Republic,3
+66,Greece,3
+67,Hungary,3
+68,Serbia,3
+69,Spain,3
+70,Turkey,3
+71,South Africa,6
+72,Zimbabwe,6
+73,Japan,7
+74,Mongolia,7
+75,New Zealand,7
+76,South Korea,7
+77,Chile,2
+78,Central America,2
+79,Other Caribbean,2
+80,Other South America,2
+81,Austria,3
+82,Belgium,3
+83,Croatia,3
+84,Cyprus,3
+85,Estonia,3
+86,Finland,3
+87,France,3
+88,Iceland,3
+89,Ireland,3
+90,Latvia,3
+91,Lithuania,3
+92,Luxembourg,3
+93,North Macedonia,3
+94,Portugal,3
+95,Slovakia,3
+96,Slovenia,3
+97,Sweden,3
+98,Switzerland,3
+99,Belarus,3
+100,Israel,5
+101,Morocco,6
+102,Eastern Africa,6
+103,Middle Africa,6
+104,Western Africa,6
+105,Other Northern Africa,6
+106,Other Southern Africa,6
+107,China Hong Kong SAR,7
+108,Philippines,7
+109,Singapore,7
+110,Sri Lanka,7
+111,Taiwan,7
