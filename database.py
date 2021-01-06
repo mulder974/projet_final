@@ -15,7 +15,7 @@ username = os.getenv("user")
 user_password = os.getenv("password")
 
 engine = create_engine(
-    f"postgresql+psycopg2://{username}:{user_password}@localhost/energy", max_overflow=20, pool_size=0)
+    f"postgresql+psycopg2://{username}:{user_password}@energy.c70eg1axm2ja.eu-west-3.rds.amazonaws.com/postgres", max_overflow=20, pool_size=0)
 
 Base = declarative_base()
 Session = sessionmaker(bind=engine)
